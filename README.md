@@ -1,6 +1,6 @@
 # kafkaWithSpringbootExample
 
-Scenario:
+**Scenario:**
 Suppose we are building a real-time analytics platform for an e-commerce website. We want to track user activity, process orders, and analyze product sales data. We'll have multiple producers generating data related to user activity, order processing, and product sales, and multiple consumers processing this data for different purposes.
 
 **Components:**
